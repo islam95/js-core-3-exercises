@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest"
   },
-  "author": "Tim von Oldenburg <tim@tvooo.de>",
+  "author": "",
   "license": "MIT",
   "devDependencies": {
     "jest": "^20.0.4"
